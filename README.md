@@ -3,7 +3,7 @@ Simple exemple of using Socket for Malware
 
 ## EDUCATION PURPOSE ONLY
 
-### It's example of code (not the best for script kiddie), if you want to use it is for education only.
+### This is sample code (not the best to avoid script kiddie), if you want to use it, it's only for education.
 
 ## How it works
 ```
